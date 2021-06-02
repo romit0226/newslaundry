@@ -2,6 +2,9 @@
 First Enable the CORS Proxy by link -https://cors-anywhere.herokuapp.com to bypass the CORS error!
 
 link - https://romit0226.github.io/newslaundry/
+
+
+Since this is mobile build so please load the page in mobile view !!
 ## Available Scripts
 
 In the project directory, you can run:
