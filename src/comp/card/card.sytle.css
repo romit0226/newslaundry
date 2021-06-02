@@ -1,0 +1,31 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    /* height: 350px; */
+    background-color:aquamarine;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);  
+    transition: transfrom 0.25s ease-out;  
+    text-align: left;
+    /* line-height:/\ 10%; */
+    justify-content: start;   
+    width: 95%; 
+
+}
+button{
+    width: 7%;
+    height: 7%;
+    border-color: transparent;
+    background-color: transparent;
+    margin-left: 94%;
+    
+   
+}
+
+
+ 
