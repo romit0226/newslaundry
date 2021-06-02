@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+## Deployment 
+First Enable the CORS Proxy by link -https://cors-anywhere.herokuapp.com to bypass the CORS error!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+link - https://romit0226.github.io/newslaundry/
 ## Available Scripts
 
 In the project directory, you can run:
